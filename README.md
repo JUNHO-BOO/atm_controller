@@ -1,5 +1,4 @@
-# atm_controller
-# in google colab
+# atm_controller in google colab
 
 from google.colab import drive
 drive.mount('/content/drive')
